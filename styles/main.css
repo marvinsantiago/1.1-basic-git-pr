@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(193, 187, 187);
+    overflow: auto;
+}
+
+.header {
+    width: 100%;
+    height: 50%;
+}
+
+a {
+    margin: 5px 5px;
+}
+
+a:hover {
+    background: white;
+}
+
+a:active {
+    background: red;
+}
